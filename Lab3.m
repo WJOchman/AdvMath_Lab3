@@ -56,4 +56,4 @@ toc % take current processor time
 
 %While using small array, the linear convolution seems to faster but
 %in case of huge arrays, the circular convolution is a lot more faster.
-%End of Task 1. 
+%End of Task 2. 
